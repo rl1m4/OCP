@@ -1,5 +1,5 @@
 package com.company;
-
+/*
 public class ScoreSwitch {
     public static void main(String[] args) {
         final int score1 = 8, score2 = 3; char myScore = 7;
@@ -13,7 +13,7 @@ public class ScoreSwitch {
         }
     }
 }
-
+*/
 /*
 QUESTION:
 A. great-good-
