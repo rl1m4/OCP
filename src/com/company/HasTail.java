@@ -1,5 +1,5 @@
 package com.company;
-
+/*
 interface HasTail { int getTailLength(); }
 abstract class Puma implements HasTail {
     protected int getTailLength() { return 4; } //compile error here: attempting to assign weaker access privileges ('protected'); was 'public'
@@ -11,6 +11,7 @@ public class Cougar implements HasTail { //compile error here: Class 'Cougar' mu
     }
     public int getTailLength(int length) { return 2; }
 }
+*/
 
 /*
 A. 2
